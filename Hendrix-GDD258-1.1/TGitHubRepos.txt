@@ -17,3 +17,10 @@ https://github.com/Unity-Technologies/Unity.Mathematics/blob/master/readme.md
 While going through this Readme I thought it was a nice repository that is very helpful for people who might have to use Linear Algebra in their game. 
 The developers decided that there needed to be something that was a little closer to the way graphics developers use the math libraries that they already had in a previous API.
 
+4. Pokemon Unity
+https://github.com/PokemonUnity/PokemonUnity
+This is a framework for the developer who wants to make a game on unity that is in the old style of Pokemon.
+
+5. Blackjack
+https://github.com/pda87/Blackjack
+This was a simple game of blakcjack that someone built and put on GitHub. I played a few hands and thought it was programmed well, could use some more visually appealling aspects but, it worked. 
