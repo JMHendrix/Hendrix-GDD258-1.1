@@ -6,3 +6,14 @@ https://github.com/github/gitignore
 I think it is interesting how some people have created their own gitignore branch to keep on GitHub, simply for reuse. It can be tedious to have to type the same code over and again.
 There was a branch specifically for Python that's only use was to make sure that there were a specific amount of spaces in the Python.gitignore.
 
+2. Air Sim
+https://github.com/microsoft/AirSim
+
+This is an open source simulator from Microsoft for autonomous vehicles that will work on Unreal and Unity.
+It seems that they are keeping it updated when new versions of VS come out. Many people have been helping with any bugs they might come across.
+
+3. Unity.Mathematics
+https://github.com/Unity-Technologies/Unity.Mathematics/blob/master/readme.md
+While going through this Readme I thought it was a nice repository that is very helpful for people who might have to use Linear Algebra in their game. 
+The developers decided that there needed to be something that was a little closer to the way graphics developers use the math libraries that they already had in a previous API.
+
