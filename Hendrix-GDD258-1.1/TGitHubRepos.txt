@@ -1,0 +1,8 @@
+Repository List
+
+1. .gitignore
+https://github.com/github/gitignore
+
+I think it is interesting how some people have created their own gitignore branch to keep on GitHub, simply for reuse. It can be tedious to have to type the same code over and again.
+There was a branch specifically for Python that's only use was to make sure that there were a specific amount of spaces in the Python.gitignore.
+
